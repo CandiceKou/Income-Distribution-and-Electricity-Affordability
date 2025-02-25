@@ -12,8 +12,6 @@ This repository contains a simulated income distribution for 48 Sub-Saharan Afri
   This notebook utilizes the input dataset "Data_Input.xlsx" to simulate income distribution and calculate residential electricity affordability. Affordability is assessed by expressing monthly electricity bills (in US dollars) as a share of income.
 - ***Country_Affordability_Results.xlsx:***
   This Excel sheet presents the results generated from the income simulation model and electricity affordability calculation.
-- ***Actual_Residential_Electricity_Consumption.xlsx:***
-  This dataset integrates and calculates actual residential electricity consumption across SSA countries. The International Energy Agency (IEA) provides total residential electricity consumption data for 32 countries. To estimate household electricity consumption, total residential consumption is divided by the population size and then multiplied by the average household size (number of people per household). For the remaining 16 countries where IEA data is unavailable, electricity consumption per capita is sourced from Index Mundi. Household electricity consumption is derived by multiplying per capita electricity consumption by the average household size (number of people per household). This dataset is used for comparison in the publication's result "Affordability vs. Actual Demand" section.
 
 ## Queries
 
