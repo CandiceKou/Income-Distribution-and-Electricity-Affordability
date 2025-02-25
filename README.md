@@ -18,4 +18,4 @@ This repository contains a simulated income distribution for 48 Sub-Saharan Afri
 ## Queries
 
 For any queries or feedback. Kindly contact:
-Stephanie Hirmer: stephanie.hirmer@eng.ox.ac.uk
+Yidan Kou: yidan.kou@eng.ox.ac.uk
