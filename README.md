@@ -1,5 +1,5 @@
 # Income-Distribution-and-Electricity-Affordability
-This repository contains a simulated income distribution for 48 Sub-Saharan African (SSA) countries and an estimated electricity affordability for households in each country. The code supports the study published in "Assessing Grid Affordability for Universal Electricity Access in Sub-Saharan Africa."
+This repository contains a simulated income distribution for 48 Sub-Saharan African (SSA) countries and an estimated electricity affordability for households in each country. The code supports the study published in *Assessing Grid Affordability for Universal Electricity Access in Sub-Saharan Africa*.
 
 ## Scripts
 - ***Electricity_Tariff_Calculator.xlxs:***
